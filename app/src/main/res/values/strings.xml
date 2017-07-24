@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRadioGroup</string>
+
+    <string name="wechat">WeChatPay</string>
+    <string name="alipay">AliPay</string>
+    <string name="baidupay">BaiDu Wallet Pay</string>
+</resources>
